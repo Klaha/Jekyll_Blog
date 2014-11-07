@@ -6,9 +6,26 @@
 </description>
     <link>http://Klaha.github.io/jekyll-hyde/</link>
     <atom:link href="http://Klaha.github.io/jekyll-hyde/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 19:19:34 -0430</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 19:19:34 -0430</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2014 10:05:12 -0430</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2014 10:05:12 -0430</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Más JevaScript...</title>
+        <description>&lt;p&gt;Se decidió extender por una semana más las actividades de &lt;em&gt;JavaScript&lt;/em&gt;, debido a que muchos estamos bombeados y full con los retos.&lt;/p&gt;
+
+&lt;p&gt;Hicimos un ejercicio sencillito de edades, y luego conocimos al mentor que faltaba (Rubén). Con él, realizamos desde cero el ejercicio de números primos de una manera diferente. Yo ya lo había hecho (&lt;strong&gt;ay que echón eres becerro&lt;/strong&gt;) pero esta manera me pareció más depinga.&lt;/p&gt;
+
+&lt;p&gt;Me atiborré de pasta seca como si no hubiese un mañana hahaha.&lt;/p&gt;
+
+&lt;p&gt;PD: Ya esto me da un pelo de risa, parece una Pascualina xD&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>JEVAScript</title>
