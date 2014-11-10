@@ -6,9 +6,24 @@
 </description>
     <link>http://Klaha.github.io/jekyll-hyde/</link>
     <atom:link href="http://Klaha.github.io/jekyll-hyde/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Nov 2014 10:05:12 -0430</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2014 10:05:12 -0430</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2014 21:40:30 -0430</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2014 21:40:30 -0430</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Tirando la cédula!</title>
+        <description>&lt;p&gt;Hoy fué un día tranquilazo. Abraham nos mostró un ejercicio bien depinga, cómo sacar la raíz cuadrada de un número sin usar &lt;code&gt;sqrt&lt;/code&gt; y solo usando divisiones. Después de haberlo realizado, nos pusimos a conversar sobre videojuegos, y resulta que &lt;strong&gt;Abraham&lt;/strong&gt; es un PC Gamer como yo.&lt;/p&gt;
+
+&lt;p&gt;Hablamos de juegos tan viejos cómo &lt;em&gt;Phantasmagoria&lt;/em&gt;, &lt;em&gt;The 7th Guest&lt;/em&gt; y &lt;em&gt;Duken Nukem 3D&lt;/em&gt;… fué depinga hablar de esos juegos que tanto marcaron mi infancia, y ver que no fuí el único!&lt;/p&gt;
+
+&lt;p&gt;Bueno, eso es todo… &lt;strong&gt;#maricoelquelolea&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Más JevaScript...</title>
